@@ -1,0 +1,9 @@
+StudentID,Gender,City,Enrolled,ExamScore,Gender_encoded,City_Chennai,City_Delhi,City_Mumbai
+1,Male,Chennai,Yes,78,1,1.0,0.0,0.0
+2,Female,Delhi,No,85,0,0.0,1.0,0.0
+3,Female,Mumbai,Yes,55,0,0.0,0.0,1.0
+4,Male,Delhi,Yes,92,1,0.0,1.0,0.0
+5,Female,Chennai,No,48,0,1.0,0.0,0.0
+6,Male,Mumbai,Yes,88,1,0.0,0.0,1.0
+7,Female,Delhi,No,61,0,0.0,1.0,0.0
+8,Male,Chennai,Yes,74,1,1.0,0.0,0.0
