@@ -1,5 +1,7 @@
-# Week 1 – Machine Learning & AI
-
+skill Nexis 
+# Week 1 – Machine Learning & AI Intern
+Dharla Saibabu
+AIML Intern
 ## Topics Covered
 - Machine Learning fundamentals
   - Supervised Learning
